@@ -1,0 +1,9 @@
+﻿  Human.cpp
+  Lab3-3.cpp
+  Student.cpp
+C:\Users\Theo3\Desktop\Lab3\Lab3-3\Student.cpp(51,26): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+  Teacher.cpp
+C:\Users\Theo3\Desktop\Lab3\Lab3-3\Teacher.cpp(79,30): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+  Создание кода...
+C:\Users\Theo3\Desktop\Lab3\Lab3-3\Teacher.cpp(95,1): warning C4715: Teacher::title: значение возвращается не при всех путях выполнения
+  Lab3-3.vcxproj -> C:\Users\Theo3\Desktop\Lab3\Lab3-3\x64\Debug\Lab3-3.exe

@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Theo3\\Desktop\\Lab3\\Lab3-1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AFD6D46A-C1CE-415D-9C3E-8F39F1190370}|Lab3-1.vcxproj|C:\\Users\\Theo3\\Desktop\\Lab3\\Lab3-1\\Trapezoid.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AFD6D46A-C1CE-415D-9C3E-8F39F1190370}|Lab3-1.vcxproj|solutionrelative:Trapezoid.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFD6D46A-C1CE-415D-9C3E-8F39F1190370}|Lab3-1.vcxproj|C:\\Users\\Theo3\\Desktop\\Lab3\\Lab3-1\\Trapezoid.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AFD6D46A-C1CE-415D-9C3E-8F39F1190370}|Lab3-1.vcxproj|solutionrelative:Trapezoid.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFD6D46A-C1CE-415D-9C3E-8F39F1190370}|Lab3-1.vcxproj|C:\\Users\\Theo3\\Desktop\\Lab3\\Lab3-1\\Triangle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AFD6D46A-C1CE-415D-9C3E-8F39F1190370}|Lab3-1.vcxproj|solutionrelative:Triangle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFD6D46A-C1CE-415D-9C3E-8F39F1190370}|Lab3-1.vcxproj|C:\\Users\\Theo3\\Desktop\\Lab3\\Lab3-1\\Triangle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AFD6D46A-C1CE-415D-9C3E-8F39F1190370}|Lab3-1.vcxproj|solutionrelative:Triangle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFD6D46A-C1CE-415D-9C3E-8F39F1190370}|Lab3-1.vcxproj|C:\\Users\\Theo3\\Desktop\\Lab3\\Lab3-1\\Rectangle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AFD6D46A-C1CE-415D-9C3E-8F39F1190370}|Lab3-1.vcxproj|solutionrelative:Rectangle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFD6D46A-C1CE-415D-9C3E-8F39F1190370}|Lab3-1.vcxproj|C:\\Users\\Theo3\\Desktop\\Lab3\\Lab3-1\\Rectangle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AFD6D46A-C1CE-415D-9C3E-8F39F1190370}|Lab3-1.vcxproj|solutionrelative:Rectangle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFD6D46A-C1CE-415D-9C3E-8F39F1190370}|Lab3-1.vcxproj|C:\\Users\\Theo3\\Desktop\\Lab3\\Lab3-1\\Lab3-1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AFD6D46A-C1CE-415D-9C3E-8F39F1190370}|Lab3-1.vcxproj|solutionrelative:Lab3-1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFD6D46A-C1CE-415D-9C3E-8F39F1190370}|Lab3-1.vcxproj|C:\\Users\\Theo3\\Desktop\\Lab3\\Lab3-1\\Circle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AFD6D46A-C1CE-415D-9C3E-8F39F1190370}|Lab3-1.vcxproj|solutionrelative:Circle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFD6D46A-C1CE-415D-9C3E-8F39F1190370}|Lab3-1.vcxproj|C:\\Users\\Theo3\\Desktop\\Lab3\\Lab3-1\\Figure.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AFD6D46A-C1CE-415D-9C3E-8F39F1190370}|Lab3-1.vcxproj|solutionrelative:Figure.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFD6D46A-C1CE-415D-9C3E-8F39F1190370}|Lab3-1.vcxproj|C:\\Users\\Theo3\\Desktop\\Lab3\\Lab3-1\\Circle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AFD6D46A-C1CE-415D-9C3E-8F39F1190370}|Lab3-1.vcxproj|solutionrelative:Circle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Rectangle.h",
+              "DocumentMoniker": "C:\\Users\\Theo3\\Desktop\\Lab3\\Lab3-1\\Rectangle.h",
+              "RelativeDocumentMoniker": "Rectangle.h",
+              "ToolTip": "C:\\Users\\Theo3\\Desktop\\Lab3\\Lab3-1\\Rectangle.h*",
+              "RelativeToolTip": "Rectangle.h*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-13T14:58:32.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Trapezoid.cpp",
+              "DocumentMoniker": "C:\\Users\\Theo3\\Desktop\\Lab3\\Lab3-1\\Trapezoid.cpp",
+              "RelativeDocumentMoniker": "Trapezoid.cpp",
+              "ToolTip": "C:\\Users\\Theo3\\Desktop\\Lab3\\Lab3-1\\Trapezoid.cpp",
+              "RelativeToolTip": "Trapezoid.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-13T15:01:38.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Trapezoid.h",
+              "DocumentMoniker": "C:\\Users\\Theo3\\Desktop\\Lab3\\Lab3-1\\Trapezoid.h",
+              "RelativeDocumentMoniker": "Trapezoid.h",
+              "ToolTip": "C:\\Users\\Theo3\\Desktop\\Lab3\\Lab3-1\\Trapezoid.h*",
+              "RelativeToolTip": "Trapezoid.h*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-13T14:59:09.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Triangle.cpp",
+              "DocumentMoniker": "C:\\Users\\Theo3\\Desktop\\Lab3\\Lab3-1\\Triangle.cpp",
+              "RelativeDocumentMoniker": "Triangle.cpp",
+              "ToolTip": "C:\\Users\\Theo3\\Desktop\\Lab3\\Lab3-1\\Triangle.cpp*",
+              "RelativeToolTip": "Triangle.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-13T15:01:06.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Triangle.h",
+              "DocumentMoniker": "C:\\Users\\Theo3\\Desktop\\Lab3\\Lab3-1\\Triangle.h",
+              "RelativeDocumentMoniker": "Triangle.h",
+              "ToolTip": "C:\\Users\\Theo3\\Desktop\\Lab3\\Lab3-1\\Triangle.h*",
+              "RelativeToolTip": "Triangle.h*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-13T14:59:32.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Rectangle.cpp",
+              "DocumentMoniker": "C:\\Users\\Theo3\\Desktop\\Lab3\\Lab3-1\\Rectangle.cpp",
+              "RelativeDocumentMoniker": "Rectangle.cpp",
+              "ToolTip": "C:\\Users\\Theo3\\Desktop\\Lab3\\Lab3-1\\Rectangle.cpp*",
+              "RelativeToolTip": "Rectangle.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-13T15:01:20.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Lab3-1.cpp",
+              "DocumentMoniker": "C:\\Users\\Theo3\\Desktop\\Lab3\\Lab3-1\\Lab3-1.cpp",
+              "RelativeDocumentMoniker": "Lab3-1.cpp",
+              "ToolTip": "C:\\Users\\Theo3\\Desktop\\Lab3\\Lab3-1\\Lab3-1.cpp*",
+              "RelativeToolTip": "Lab3-1.cpp*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-13T13:23:34.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Circle.cpp",
+              "DocumentMoniker": "C:\\Users\\Theo3\\Desktop\\Lab3\\Lab3-1\\Circle.cpp",
+              "RelativeDocumentMoniker": "Circle.cpp",
+              "ToolTip": "C:\\Users\\Theo3\\Desktop\\Lab3\\Lab3-1\\Circle.cpp*",
+              "RelativeToolTip": "Circle.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-13T15:00:50.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Figure.h",
+              "DocumentMoniker": "C:\\Users\\Theo3\\Desktop\\Lab3\\Lab3-1\\Figure.h",
+              "RelativeDocumentMoniker": "Figure.h",
+              "ToolTip": "C:\\Users\\Theo3\\Desktop\\Lab3\\Lab3-1\\Figure.h*",
+              "RelativeToolTip": "Figure.h*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-13T14:58:10.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Circle.h",
+              "DocumentMoniker": "C:\\Users\\Theo3\\Desktop\\Lab3\\Lab3-1\\Circle.h",
+              "RelativeDocumentMoniker": "Circle.h",
+              "ToolTip": "C:\\Users\\Theo3\\Desktop\\Lab3\\Lab3-1\\Circle.h*",
+              "RelativeToolTip": "Circle.h*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-13T14:57:54.241Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
